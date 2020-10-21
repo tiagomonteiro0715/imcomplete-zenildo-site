@@ -51,3 +51,18 @@
     color: white;
     font-size: 16px;
 }
+
+.zen_photo img {
+
+    padding: 40px 40px 40px 40px;
+    width: 300px;
+    height: 300px;
+
+}
+
+.zen_photo h3 {
+
+    padding: 0px 0px 0px 40px;
+  
+
+}
