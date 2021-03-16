@@ -37,7 +37,11 @@ Check out the demo of Flusk responsive HTML template at (http://themewagon.com/d
 #Demo Link
 Check out the demo of Flusk responsive HTML template at (http://themewagon.com/demo/DarkJoe/)
 
+----- 
 
+Not completed because better template was found
+
+Archived on 16/03/2021. Not completed
 
 
 
